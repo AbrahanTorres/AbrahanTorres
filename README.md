@@ -11,8 +11,7 @@
 - 🎥 Video resume: https://lnkd.in/dMUWmRaz
 
 
-I am a junior python developer, and also a Mechanical engineer, currently studying the master of python development for Hacking, BigData, and Machine learning, at EIP.
+I am an experienced Data Engineer and Python Developer, currently studying a master's degree in Python Development for Hacking, Big Data, and Machine Learning at EIP. I have experience in setting up and automating data extraction services from multiple sources and exporting them to popular data warehouse services. I have strong problem-solving skills, backed by a logical and creative mindset.
 
-I can work in a team and I am skilled at solving problems with logical and creative thinking. 
 
 
